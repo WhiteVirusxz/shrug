@@ -6117,7 +6117,10 @@ html[lang=en-GB] .info-1sUqUG::after {
 	--hide-member-list: 1;
 	--hide-active-now: 1;
 	--win-min-max-close-button-width: 28px;
+	--glasscord-win-blur: blurbehind;
 	--glasscord-macos-vibrancy: fullscreen-ui;
+	--glasscord-linux-blur: true;
+	--glasscord-blur-corner-radius: 100px;
 	--glasscord-titlebar: native;
 	--channel-tabs-enabled: 0
 }
